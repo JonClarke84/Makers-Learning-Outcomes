@@ -1,0 +1,38 @@
+Final Notes:
+I had done some of this process on some personal projects in the weeks leading up to starting with Makers. However, I'd only interfaced with Git and GitHub through the desktop app and VS Code.
+
+I had also completed the introduction to Git pre-course material that was sent out by email.
+
+Using the CLI in this exercises has given me a much better understanding of the process - especially when creating files using the terminal.
+
+Learning Outcomes 1:
+Manually set up a computer for web development
+Install XCode
+Install Homebrew
+Install RVM and Ruby
+Install Pry
+
+Learning Outcomes 2:
+Command Line
+The most important things that you come away with from this part of the course are:
+
+No (or reduced) fear of the command line
+An understanding that the command line allows direct access to a computer's underlying code
+Use of these three commands: ls, pwd, and cd
+Now take a moment to reflect on the other things that we've covered, so far. You don't need to feel comfortable with them before moving on – you'll get plenty of practice as and when they become useful to you.
+
+Creating, moving and copying files
+Creating and removing directories
+Using the manual command
+Super user
+
+Learning Outcomes 3:
+Git
+Recall that git is a version control system (VCS)
+Recognise common git commands, such as fetch, init, clone, pull, push, add, remote, and commit
+Explain the following terms: 'staging', 'upstream', 'remote'
+Clone a git repo
+Add files for staging in a git repo
+Commit staged files in a git repo
+Push files to a remote repo
+Fork a git repo
