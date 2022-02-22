@@ -10,16 +10,17 @@ html {
 
 .h1 {
   font-size: 5em;
+  text-align: center;
 }
 
 .h2 {
-  font-size:2em;
+  font-size: 2em;
 }
 
 .content {
   display: grid;
   grid-template-columns: auto;
-  font-size: 200%;
+  font-size: 100%;
   padding: 3em;
   color: #232323;
   border-style: solid;
@@ -32,7 +33,7 @@ html {
   html {
     font-size: 100%;
   }
-  [class=content] {
+  [class="content"] {
     grid-template-columns: auto auto auto auto auto;
   }
 }
@@ -41,7 +42,7 @@ html {
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
-  text-align: center;
+  text-align: left;
 }
 
 .button {
@@ -86,3 +87,4 @@ html {
 .topnav a:hover {
   background-color: #f0f0f0;
   color: #232323;
+}
