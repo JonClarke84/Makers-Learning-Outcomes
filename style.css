@@ -63,15 +63,7 @@ html {
   transition-duration: 0.3s;
 }
 
-.button:hover {
-  background-color: #f0f0f0;
-  color: #232323;
-}
 
-.button:active {
-  box-shadow: 0 0 0 0 #232323;
-  transform: scale(96%);
-}
 
 .topnav {
   background-color: #232323;
